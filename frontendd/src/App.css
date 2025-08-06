@@ -1,0 +1,10 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.table-warning {
+  --bs-table-bg: #fff3cd;
+  --bs-table-striped-bg: #f8e5b5;
+  color: #664d03;
+  font-weight: bold;
+}
